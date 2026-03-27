@@ -208,3 +208,9 @@ This project is licensed under **The AI Scientist Source Code License** (a deriv
 
 We recommend the following attribution in your paper's Abstract or Methods section:
 > "This manuscript was autonomously generated using [The AI Scientist](https://github.com/SakanaAI/AI-Scientist)."
+@article{aiscientist_v2,
+  title={The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search},
+  author={Yamada, Yutaro and Lange, Robert Tjarko and Lu, Cong and Hu, Shengran and Lu, Chris and Foerster, Jakob and Clune, Jeff and Ha, David},
+  journal={arXiv preprint arXiv:2504.08066},
+  year={2025}
+}
